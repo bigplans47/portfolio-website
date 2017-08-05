@@ -1,4 +1,4 @@
-# _{Week 1 Friday Project - Make a Website}_
+# _{Week 1 Friday Project - Make a Portfolio Website}_
 
 #### _{This is a website that shows knowledge of basic HTML and CSS concepts}, {Aug 4th, 2017}_
 
